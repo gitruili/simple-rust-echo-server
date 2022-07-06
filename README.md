@@ -11,3 +11,5 @@ cargo run
 cargo build
 
 cargo run
+
+![Capture](https://user-images.githubusercontent.com/8585779/177440181-86a06095-277f-45eb-84df-9d296ed95615.PNG)
